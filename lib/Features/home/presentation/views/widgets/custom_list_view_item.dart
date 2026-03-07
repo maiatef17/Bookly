@@ -20,5 +20,6 @@ class FeatuerdListViewItem extends StatelessWidget {
         ),
       ),
     );
+    
   }
 }
